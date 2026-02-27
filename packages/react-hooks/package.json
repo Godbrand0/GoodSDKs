@@ -36,6 +36,7 @@
     "wagmi": "*"
   },
   "dependencies": {
+    "@goodsdks/bridging-sdk": "workspace:*",
     "@goodsdks/citizen-sdk": "*",
     "lz-string": "^1.5.0",
     "react": "^19.1.1",
